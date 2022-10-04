@@ -12,6 +12,7 @@ header {
 main {
   grid-area: g_area_main;
   background-color: red;
+
 }
 
 aside {
